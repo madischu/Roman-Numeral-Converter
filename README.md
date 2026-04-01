@@ -49,7 +49,7 @@ Display integer value
 End
 
 ## UML Class Diagram
-<img width="352" height="320" alt="image" src="https://github.com/user-attachments/assets/8410b4ab-5579-47cd-a9e3-c3bf99f92c3d" />
+<img width="337" height="309" alt="image" src="https://github.com/user-attachments/assets/6588cb71-0cfc-4ca1-a1f0-3331477a7189" />
 
 ## Use Case Diagram
 <img width="507" height="483" alt="image" src="https://github.com/user-attachments/assets/6e739b58-2cf8-4ffb-9b94-8b846135057b" />
