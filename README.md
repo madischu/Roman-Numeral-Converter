@@ -20,9 +20,9 @@ The program follows the standard Roman numeral rules, including subtraction case
 ## Compile and Run Instructions
 **Using g++**
 
- *g++ main.cpp romanType.cpp -o roman 
+ *g++ main.cpp romanType.cpp -o roman*
  
-./roman*
+*./roman*
 
 ## Design Documentation
 **Detailed Pseudocode**
