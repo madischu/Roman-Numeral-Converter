@@ -47,3 +47,9 @@ Display Roman numeral
 Display integer value 
 
 End
+
+## UML Class Diagram
+<img width="352" height="320" alt="image" src="https://github.com/user-attachments/assets/8410b4ab-5579-47cd-a9e3-c3bf99f92c3d" />
+
+## Program Execution Evidence
+
