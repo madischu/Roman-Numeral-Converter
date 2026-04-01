@@ -21,6 +21,7 @@ The program follows the standard Roman numeral rules, including subtraction case
 **Using g++**
 
  *g++ main.cpp romanType.cpp -o roman 
+ 
 ./roman*
 
 ## Design Documentation
